@@ -3,7 +3,7 @@ def main():
     while True:
         try:
             x = int(input("type an integer"))
-            
+            break
 
   
 
