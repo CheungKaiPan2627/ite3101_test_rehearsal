@@ -5,7 +5,7 @@ def main():
             x = int(input("type an integer"))
             break
         except ValueError:
-            print
+            print("put an integer pls")
 
   
 
