@@ -3,10 +3,11 @@ def main():
     while True:
         try:
             x = int(input("type an integer"))
+            print(x)
             break
         except ValueError:
             print("put an integer pls")
-            
+
 
   
 
