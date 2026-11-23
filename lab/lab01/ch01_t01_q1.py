@@ -7,7 +7,7 @@ def main():
             break
         except ValueError:
             print("put an integer pls")
-    if x % 
+    if x % 10 == 0
 
 
   
