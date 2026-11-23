@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
     try:
-        x = int(input())
+        x = int(input(Typeaninterger))
 
 
 if __name__ == "__main__":
