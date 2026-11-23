@@ -8,6 +8,9 @@ def main():
         except ValueError:
             print("put an integer pls")
     if x % 10 == 0 or x % 3 != 0
+        print("nice you got valid inputs")
+    else
+        print("you got wrong answer idiot")
     
 
 
