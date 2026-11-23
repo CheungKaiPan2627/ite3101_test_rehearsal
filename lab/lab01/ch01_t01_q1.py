@@ -4,6 +4,8 @@ def main():
         try:
             x = int(input("type an integer"))
             break
+        except ValueError:
+            print
 
   
 
